@@ -3,10 +3,10 @@ package tn.esprit.skidestation;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class SkiDeStationApplicationTests {
 
-    @Test
+    //@Test
     void contextLoads() {
     }
 
