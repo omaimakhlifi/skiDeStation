@@ -24,6 +24,7 @@ public class Cours {
     Support support;
     float prix;
     int creneau;
+    int p;
     @OneToMany(mappedBy = "cours")
     Set<Insciption> insc;
 
